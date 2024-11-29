@@ -17,20 +17,28 @@ nav{
     border-radius: 30px;
     box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.299);
     align-items: center;
+    justify-content: right;
     display: flex;
     
 }
 #buscador{
     position: relative;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: white;
 }
 #lup{
     position: absolute;
+    top: 35%;
 }
 #bus{
     background-color: transparent;
     border: 0;
-    height:80%;
+    height:100%;
     width: 200px;
-    margin: 20px;
-    border-bottom:1px solid black ;
+    /* margin: 10px; */
+    /* border:1px solid black ; */
 }
