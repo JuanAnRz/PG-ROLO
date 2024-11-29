@@ -17,9 +17,10 @@ nav{
     border-radius: 30px;
     box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.299);
     align-items: center;
-    justify-content: right;
+    justify-content: space-between;
     display: flex;
-    
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 #buscador{
     position: relative;
@@ -41,4 +42,14 @@ nav{
     width: 200px;
     /* margin: 10px; */
     /* border:1px solid black ; */
+}
+
+a{
+    text-decoration: none;
+    color: #46a387;
+    padding: 10px;
+}
+b{
+    padding: 5px;
+
 }
