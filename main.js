@@ -4,4 +4,7 @@ let links=document.getElementById('links')
 
 menu.addEventListener('click',()=>{
     links.classList.toggle('links')
+    menu.classList.toggle('rotate')
+    menu.classList.toggle('rotates')
+    
 })
