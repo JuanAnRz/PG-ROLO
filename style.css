@@ -64,6 +64,12 @@ nav{
     nav{
         width: 320px;
     }
+    .links{
+        width: 300px;
+    }
+    #bien{
+        font-size: xx-large;
+    }
 }
 .naveg{
     width: 0;
