@@ -83,9 +83,10 @@ nav{
     border: 0px 1px 0px;
     position:absolute;
     left: 20px;
-    bottom: -120px;
+    bottom: -210px;
     border-radius: 10px;
-    width: 160px;
+    max-width: 320px;
+    width: fit-content;
     height: fit-content;
     overflow: visible;
     background-color: rgba(247, 246, 246, 0.82);
@@ -96,6 +97,7 @@ nav{
     height: 50px;
     width: 300px;
     display: flex;
+    margin: 15px;
     align-items: center;
 }
 #lup{
