@@ -81,6 +81,12 @@ nav{
     .p{
         width: 40%;
     }
+   
+}
+#logo{
+    
+    height: 25px;
+    margin-right: 30px; 
 }
 .naveg{
     width: 0;
