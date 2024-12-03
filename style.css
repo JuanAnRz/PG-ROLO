@@ -78,6 +78,9 @@ nav{
     #bien{
         font-size: xx-large;
     }
+    .p{
+        width: 40%;
+    }
 }
 .naveg{
     width: 0;
@@ -91,7 +94,7 @@ nav{
     border: solid #46a387;
     border: 0px 1px 0px;
     position:absolute;
-    left: 20px;
+    /* left: 20px; */
     bottom: -210px;
     border-radius: 10px;
     max-width: 320px;
